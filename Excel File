@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Google Spreadsheet</title>
+</head>
+<body>
+    <h1>Google Spreadsheet Embed</h1>
+    <iframe src="https://docs.google.com/spreadsheets/d/1O0G2dnMWDHoKdqodqckZOITSM9-jNsiG/preview?usp=drive_link&ouid=106299411060036172640&rtpof=true&sd=true"
+            width="100%"
+            height="600"
+            frameborder="0"
+            allowfullscreen>
+    </iframe>
+</body>
+</html>
